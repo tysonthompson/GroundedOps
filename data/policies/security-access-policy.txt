@@ -1,0 +1,15 @@
+GroundedOps Demo Dataset
+Document: Security Access Policy
+Owner: Security Engineering
+
+Access to production systems is granted only to employees with a documented business need. Access requests must be submitted through the identity management system and approved by both the employee's manager and the system owner.
+
+Production access reviews occur every 90 days. System owners must remove access for employees who no longer require it.
+
+Employees must use multi-factor authentication for all systems that contain customer data, financial records, employee information, source code, or operational credentials.
+
+Shared accounts are prohibited unless Security Engineering grants a temporary exception for a specific operational incident. Temporary shared-account exceptions expire after seven days.
+
+Lost or stolen devices must be reported to Security Operations within one hour of discovery. Security Operations may remotely lock or wipe devices that could expose company or customer data.
+
+Contractors receive the minimum access necessary to complete their assignment. Contractor access expires automatically on the contract end date unless renewed by the sponsor.

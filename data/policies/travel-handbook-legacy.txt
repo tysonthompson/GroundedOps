@@ -1,0 +1,13 @@
+GroundedOps Demo Dataset
+Document: Legacy Travel Handbook
+Owner: People Operations
+
+This handbook summarizes travel practices used by the company before the 2026 finance policy refresh. It remains available for historical reference and for teams that have not yet migrated their onboarding material.
+
+Employees should submit travel expense reports within 60 calendar days after returning from a business trip. Managers may reject late reports if receipts are missing or if the expense cannot be connected to a business purpose.
+
+Domestic flights under five hours should be booked in economy class. International flights over eight hours may be booked in premium economy with manager approval.
+
+Hotel bookings should prioritize safety, proximity to the work location, and reasonable nightly rates. Employees are encouraged to book through the company travel portal when possible.
+
+Team offsites must have a budget owner before travel is booked. The budget owner is responsible for approving lodging, group meals, and local transportation.

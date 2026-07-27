@@ -1,0 +1,13 @@
+GroundedOps Demo Dataset
+Document: Incident Response Playbook
+Owner: Reliability Engineering
+
+An incident is any unplanned event that materially degrades customer experience, compromises security, or threatens business operations.
+
+Severity 1 incidents include total production outage, confirmed customer data exposure, or payment processing failure affecting more than 25 percent of active customers. Severity 1 incidents require an incident commander, communications lead, and executive sponsor.
+
+The incident commander owns coordination, timeline updates, and role assignment. The communications lead owns internal updates every 30 minutes for Severity 1 incidents and every 60 minutes for Severity 2 incidents.
+
+Post-incident reviews must be completed within five business days for Severity 1 incidents and within ten business days for Severity 2 incidents. The review should identify contributing factors, customer impact, detection gaps, and follow-up owners.
+
+Incident notes should be factual and blameless. The purpose of review is learning and prevention, not punishment.

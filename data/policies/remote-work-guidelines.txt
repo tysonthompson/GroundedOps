@@ -1,0 +1,13 @@
+GroundedOps Demo Dataset
+Document: Remote Work Guidelines
+Owner: People Operations
+
+Employees may work remotely from approved locations where the company is registered to employ staff. Employees must update their work location in the HR system before working from a new state, province, or country.
+
+Core collaboration hours are 10:00 to 15:00 in the employee's primary team time zone, Monday through Thursday. Teams may define additional coverage expectations for customer-facing launches or operational incidents.
+
+Employees working remotely must use company-managed devices for company work. Personal devices may not be used to store customer data, employee records, source code, or confidential planning documents.
+
+Managers should evaluate remote employees based on outcomes, communication quality, and reliability rather than hours visibly online.
+
+Employees may work from another country for up to 20 business days per calendar year with approval from People Operations, Legal, and their manager.

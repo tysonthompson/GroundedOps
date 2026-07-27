@@ -1,0 +1,13 @@
+GroundedOps Demo Dataset
+Document: Procurement Policy
+Owner: Business Operations
+
+Purchases under 1,000 USD may be approved by a direct manager if they are included in the team's budget.
+
+Purchases from 1,000 USD to 10,000 USD require approval from the department head and Finance Operations.
+
+Purchases above 10,000 USD require approval from the department head, Finance Operations, and Legal. Competitive vendor review is required for purchases above 25,000 USD unless a sole-source exception is approved.
+
+New software tools that store customer data, employee data, source code, credentials, or financial records must complete a security review before purchase.
+
+Annual renewals should be reviewed at least 45 days before the renewal date. The business owner must confirm continued need, active usage, and budget availability.

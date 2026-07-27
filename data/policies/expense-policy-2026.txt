@@ -1,0 +1,15 @@
+GroundedOps Demo Dataset
+Document: Expense Policy 2026
+Owner: Finance Operations
+
+Employees may submit reimbursable business expenses for travel, meals, lodging, required software, and client-related costs. Expenses must be reasonable, directly related to company business, and supported by an itemized receipt.
+
+Expense reports must be submitted within 30 calendar days of the transaction date. Reports submitted after 30 days require written approval from the employee's department vice president.
+
+Meals while traveling are reimbursable up to 75 USD per day in the United States and 110 USD per day for international travel. Alcohol is not reimbursable unless it is part of a pre-approved client event.
+
+Air travel should be booked in economy class for flights under six hours. Premium economy may be booked for flights longer than six hours. Business class requires CFO approval before booking.
+
+Employees must use the company travel portal when booking flights and hotels unless the portal is unavailable or the client requires a specific booking channel.
+
+Personal expenses, commuting costs, traffic fines, and non-business entertainment are not reimbursable.
