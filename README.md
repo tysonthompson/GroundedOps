@@ -1,3 +1,4 @@
+<img width="1919" height="933" alt="groundedops" src="https://github.com/user-attachments/assets/a1fe727c-e0d8-489e-b0cf-da413cc07951" />
 # GroundedOps
 
 GroundedOps is an AI policy and document assistant built to show the engineering behind reliable enterprise RAG: document upload, semantic retrieval, Cohere Rerank, grounded answers with citations, unsupported-answer refusal, conflict detection, and an evaluation dashboard.
